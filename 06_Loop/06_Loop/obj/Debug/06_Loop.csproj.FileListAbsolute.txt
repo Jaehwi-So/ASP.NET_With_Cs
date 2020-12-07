@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2015\Projects\06_Loop\06_Loop\bin\Debug\06_Loop.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\06_Loop\06_Loop\bin\Debug\06_Loop.exe
+c:\users\admin\documents\visual studio 2015\Projects\06_Loop\06_Loop\bin\Debug\06_Loop.pdb
+c:\users\admin\documents\visual studio 2015\Projects\06_Loop\06_Loop\obj\Debug\06_Loop.exe
+c:\users\admin\documents\visual studio 2015\Projects\06_Loop\06_Loop\obj\Debug\06_Loop.pdb
