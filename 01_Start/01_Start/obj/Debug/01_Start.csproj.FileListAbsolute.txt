@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\01_Start\01_Start\bin\Debug\01_Start.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\01_Start\01_Start\bin\Debug\01_Start.exe
+c:\users\admin\documents\visual studio 2015\Projects\01_Start\01_Start\bin\Debug\01_Start.pdb
+c:\users\admin\documents\visual studio 2015\Projects\01_Start\01_Start\obj\Debug\01_Start.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\01_Start\01_Start\obj\Debug\01_Start.exe
+c:\users\admin\documents\visual studio 2015\Projects\01_Start\01_Start\obj\Debug\01_Start.pdb
