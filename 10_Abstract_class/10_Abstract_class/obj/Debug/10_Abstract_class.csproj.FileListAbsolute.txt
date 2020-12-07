@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\10_Abstract_class\10_Abstract_class\bin\Debug\10_Abstract_class.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\10_Abstract_class\10_Abstract_class\bin\Debug\10_Abstract_class.exe
+c:\users\admin\documents\visual studio 2015\Projects\10_Abstract_class\10_Abstract_class\bin\Debug\10_Abstract_class.pdb
+c:\users\admin\documents\visual studio 2015\Projects\10_Abstract_class\10_Abstract_class\obj\Debug\10_Abstract_class.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\10_Abstract_class\10_Abstract_class\obj\Debug\10_Abstract_class.exe
+c:\users\admin\documents\visual studio 2015\Projects\10_Abstract_class\10_Abstract_class\obj\Debug\10_Abstract_class.pdb
