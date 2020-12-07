@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\07_Struct\07_Struct\bin\Debug\07_Struct.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\07_Struct\07_Struct\bin\Debug\07_Struct.exe
+c:\users\admin\documents\visual studio 2015\Projects\07_Struct\07_Struct\bin\Debug\07_Struct.pdb
+c:\users\admin\documents\visual studio 2015\Projects\07_Struct\07_Struct\obj\Debug\07_Struct.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\07_Struct\07_Struct\obj\Debug\07_Struct.exe
+c:\users\admin\documents\visual studio 2015\Projects\07_Struct\07_Struct\obj\Debug\07_Struct.pdb
