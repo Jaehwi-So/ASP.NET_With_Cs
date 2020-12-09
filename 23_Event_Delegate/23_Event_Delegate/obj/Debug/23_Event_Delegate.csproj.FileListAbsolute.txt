@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2015\Projects\23_Event_Delegate\23_Event_Delegate\bin\Debug\23_Event_Delegate.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\23_Event_Delegate\23_Event_Delegate\bin\Debug\23_Event_Delegate.exe
+c:\users\admin\documents\visual studio 2015\Projects\23_Event_Delegate\23_Event_Delegate\bin\Debug\23_Event_Delegate.pdb
+c:\users\admin\documents\visual studio 2015\Projects\23_Event_Delegate\23_Event_Delegate\obj\Debug\23_Event_Delegate.exe
+c:\users\admin\documents\visual studio 2015\Projects\23_Event_Delegate\23_Event_Delegate\obj\Debug\23_Event_Delegate.pdb
