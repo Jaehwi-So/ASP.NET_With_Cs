@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2015\Projects\15_Exception\15_Exception\bin\Debug\15_Exception.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\15_Exception\15_Exception\bin\Debug\15_Exception.exe
+c:\users\admin\documents\visual studio 2015\Projects\15_Exception\15_Exception\bin\Debug\15_Exception.pdb
+c:\users\admin\documents\visual studio 2015\Projects\15_Exception\15_Exception\obj\Debug\15_Exception.exe
+c:\users\admin\documents\visual studio 2015\Projects\15_Exception\15_Exception\obj\Debug\15_Exception.pdb
