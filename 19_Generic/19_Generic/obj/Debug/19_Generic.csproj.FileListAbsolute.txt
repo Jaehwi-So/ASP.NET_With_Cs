@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\19_Generic\19_Generic\bin\Debug\19_Generic.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\19_Generic\19_Generic\bin\Debug\19_Generic.exe
+c:\users\admin\documents\visual studio 2015\Projects\19_Generic\19_Generic\bin\Debug\19_Generic.pdb
+c:\users\admin\documents\visual studio 2015\Projects\19_Generic\19_Generic\obj\Debug\19_Generic.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\19_Generic\19_Generic\obj\Debug\19_Generic.exe
+c:\users\admin\documents\visual studio 2015\Projects\19_Generic\19_Generic\obj\Debug\19_Generic.pdb
