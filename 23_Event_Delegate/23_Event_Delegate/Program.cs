@@ -15,13 +15,15 @@ namespace _23_Event_Delegate
 {
     class MyArea : Form
     {
-        public delegate void ClickEvent(object sender);
+        public delegate void ClickEvent(object sender); //델리게이트 정의. 이벤트는 기본적으로 delegate형이다.
+        // Event 필드 정의
+        public event ClickEvent MyClick;
+
         public MyArea()
         {
-            this.MouseClick += delegate { MyAreaClicked(); };
+            this.MouseClick += delegate { MyAreaClicked(); }; //무명 메서드. 마우스 클릭시 MyAreaClicked()메서드가 호출되도록 설정한다.
         }
-        // event 필드
-        public event ClickEvent MyClick;
+        
 
         // 폼 클릭이벤트 발생 시 MyClick 메서드 호출
         void MyAreaClicked()
