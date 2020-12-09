@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\11_Interface\11_Interface\bin\Debug\11_Interface.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\11_Interface\11_Interface\bin\Debug\11_Interface.exe
+c:\users\admin\documents\visual studio 2015\Projects\11_Interface\11_Interface\bin\Debug\11_Interface.pdb
+c:\users\admin\documents\visual studio 2015\Projects\11_Interface\11_Interface\obj\Debug\11_Interface.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\11_Interface\11_Interface\obj\Debug\11_Interface.exe
+c:\users\admin\documents\visual studio 2015\Projects\11_Interface\11_Interface\obj\Debug\11_Interface.pdb
