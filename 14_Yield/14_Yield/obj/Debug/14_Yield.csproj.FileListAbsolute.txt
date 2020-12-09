@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\14_Yield\14_Yield\bin\Debug\14_Yield.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\14_Yield\14_Yield\bin\Debug\14_Yield.exe
+c:\users\admin\documents\visual studio 2015\Projects\14_Yield\14_Yield\bin\Debug\14_Yield.pdb
+c:\users\admin\documents\visual studio 2015\Projects\14_Yield\14_Yield\obj\Debug\14_Yield.exe
+c:\users\admin\documents\visual studio 2015\Projects\14_Yield\14_Yield\obj\Debug\14_Yield.pdb
+c:\users\admin\documents\visual studio 2015\Projects\14_Yield\14_Yield\obj\Debug\14_Yield.csprojResolveAssemblyReference.cache
