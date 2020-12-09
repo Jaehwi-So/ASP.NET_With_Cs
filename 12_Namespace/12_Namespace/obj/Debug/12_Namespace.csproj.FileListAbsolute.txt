@@ -1,0 +1,1 @@
+c:\users\admin\documents\visual studio 2015\Projects\12_Namespace\12_Namespace\bin\Debug\12_Namespace.exe.config
