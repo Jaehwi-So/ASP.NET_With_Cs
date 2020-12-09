@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\13_Method\13_Method\bin\Debug\13_Method.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\13_Method\13_Method\bin\Debug\13_Method.exe
+c:\users\admin\documents\visual studio 2015\Projects\13_Method\13_Method\bin\Debug\13_Method.pdb
+c:\users\admin\documents\visual studio 2015\Projects\13_Method\13_Method\obj\Debug\13_Method.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\13_Method\13_Method\obj\Debug\13_Method.exe
+c:\users\admin\documents\visual studio 2015\Projects\13_Method\13_Method\obj\Debug\13_Method.pdb
