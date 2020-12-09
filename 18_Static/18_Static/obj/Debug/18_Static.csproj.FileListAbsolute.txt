@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\18_Static\18_Static\bin\Debug\18_Static.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\18_Static\18_Static\bin\Debug\18_Static.exe
+c:\users\admin\documents\visual studio 2015\Projects\18_Static\18_Static\bin\Debug\18_Static.pdb
+c:\users\admin\documents\visual studio 2015\Projects\18_Static\18_Static\obj\Debug\18_Static.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\18_Static\18_Static\obj\Debug\18_Static.exe
+c:\users\admin\documents\visual studio 2015\Projects\18_Static\18_Static\obj\Debug\18_Static.pdb
