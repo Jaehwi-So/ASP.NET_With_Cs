@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2015\Projects\16_Preprocessor_Directive\16_Preprocessor_Directive\bin\Debug\16_Preprocessor_Directive.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\16_Preprocessor_Directive\16_Preprocessor_Directive\bin\Debug\16_Preprocessor_Directive.exe
+c:\users\admin\documents\visual studio 2015\Projects\16_Preprocessor_Directive\16_Preprocessor_Directive\bin\Debug\16_Preprocessor_Directive.pdb
+c:\users\admin\documents\visual studio 2015\Projects\16_Preprocessor_Directive\16_Preprocessor_Directive\obj\Debug\16_Preprocessor_Directive.exe
+c:\users\admin\documents\visual studio 2015\Projects\16_Preprocessor_Directive\16_Preprocessor_Directive\obj\Debug\16_Preprocessor_Directive.pdb
