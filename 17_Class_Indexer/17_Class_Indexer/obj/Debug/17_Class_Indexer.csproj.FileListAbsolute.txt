@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\17_Class_Indexer\17_Class_Indexer\bin\Debug\17_Class_Indexer.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\17_Class_Indexer\17_Class_Indexer\bin\Debug\17_Class_Indexer.exe
+c:\users\admin\documents\visual studio 2015\Projects\17_Class_Indexer\17_Class_Indexer\bin\Debug\17_Class_Indexer.pdb
+c:\users\admin\documents\visual studio 2015\Projects\17_Class_Indexer\17_Class_Indexer\obj\Debug\17_Class_Indexer.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\17_Class_Indexer\17_Class_Indexer\obj\Debug\17_Class_Indexer.exe
+c:\users\admin\documents\visual studio 2015\Projects\17_Class_Indexer\17_Class_Indexer\obj\Debug\17_Class_Indexer.pdb
