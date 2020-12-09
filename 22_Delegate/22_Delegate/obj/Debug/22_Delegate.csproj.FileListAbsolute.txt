@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\22_Delegate\22_Delegate\bin\Debug\22_Delegate.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\22_Delegate\22_Delegate\bin\Debug\22_Delegate.exe
+c:\users\admin\documents\visual studio 2015\Projects\22_Delegate\22_Delegate\bin\Debug\22_Delegate.pdb
+c:\users\admin\documents\visual studio 2015\Projects\22_Delegate\22_Delegate\obj\Debug\22_Delegate.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\22_Delegate\22_Delegate\obj\Debug\22_Delegate.exe
+c:\users\admin\documents\visual studio 2015\Projects\22_Delegate\22_Delegate\obj\Debug\22_Delegate.pdb
