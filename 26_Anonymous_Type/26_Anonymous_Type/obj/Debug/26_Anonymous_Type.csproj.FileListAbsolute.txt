@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\26_Anonymous_Type\26_Anonymous_Type\bin\Debug\26_Anonymous_Type.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\26_Anonymous_Type\26_Anonymous_Type\bin\Debug\26_Anonymous_Type.exe
+c:\users\admin\documents\visual studio 2015\Projects\26_Anonymous_Type\26_Anonymous_Type\bin\Debug\26_Anonymous_Type.pdb
+c:\users\admin\documents\visual studio 2015\Projects\26_Anonymous_Type\26_Anonymous_Type\obj\Debug\26_Anonymous_Type.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\26_Anonymous_Type\26_Anonymous_Type\obj\Debug\26_Anonymous_Type.exe
+c:\users\admin\documents\visual studio 2015\Projects\26_Anonymous_Type\26_Anonymous_Type\obj\Debug\26_Anonymous_Type.pdb
