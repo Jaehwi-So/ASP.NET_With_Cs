@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\34_Func_Delegate\34_Func_Delegate\bin\Debug\34_Func_Delegate.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\34_Func_Delegate\34_Func_Delegate\bin\Debug\34_Func_Delegate.exe
+c:\users\admin\documents\visual studio 2015\Projects\34_Func_Delegate\34_Func_Delegate\bin\Debug\34_Func_Delegate.pdb
+c:\users\admin\documents\visual studio 2015\Projects\34_Func_Delegate\34_Func_Delegate\obj\Debug\34_Func_Delegate.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\34_Func_Delegate\34_Func_Delegate\obj\Debug\34_Func_Delegate.exe
+c:\users\admin\documents\visual studio 2015\Projects\34_Func_Delegate\34_Func_Delegate\obj\Debug\34_Func_Delegate.pdb
