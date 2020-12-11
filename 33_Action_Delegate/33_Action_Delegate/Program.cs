@@ -14,7 +14,8 @@ namespace _33_Action_Delegate
         }
         public static void Run()
         {
-            // Action<T> : 하나의 파라미터를 받아들이고 반환값이 없는 함수에 사용되는 Delegate이다.
+            // Action<T> : 하나의 파라미터를 받아들이고 반환값이 없는 함수에 사용되는 Delegate이다..
+            // Action<T1, T2> : 파라미터 T1, T2를 받아들이고 반환값이 없는 함수에 사용되는 Delegate이다..
             // 입력  : T 타입
             // 리턴갑 : 없음
 
