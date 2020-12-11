@@ -1,0 +1,2 @@
+c:\users\admin\documents\visual studio 2015\Projects\31_Linq\31_Linq\bin\Debug\31_Linq.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\31_Linq\31_Linq\bin\Debug\31_Linq_Query.exe.config
