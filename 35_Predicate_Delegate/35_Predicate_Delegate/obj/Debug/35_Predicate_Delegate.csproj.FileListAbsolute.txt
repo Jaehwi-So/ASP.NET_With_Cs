@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2015\Projects\35_Predicate_Delegate\35_Predicate_Delegate\bin\Debug\35_Predicate_Delegate.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\35_Predicate_Delegate\35_Predicate_Delegate\bin\Debug\35_Predicate_Delegate.exe
+c:\users\admin\documents\visual studio 2015\Projects\35_Predicate_Delegate\35_Predicate_Delegate\bin\Debug\35_Predicate_Delegate.pdb
+c:\users\admin\documents\visual studio 2015\Projects\35_Predicate_Delegate\35_Predicate_Delegate\obj\Debug\35_Predicate_Delegate.exe
+c:\users\admin\documents\visual studio 2015\Projects\35_Predicate_Delegate\35_Predicate_Delegate\obj\Debug\35_Predicate_Delegate.pdb
