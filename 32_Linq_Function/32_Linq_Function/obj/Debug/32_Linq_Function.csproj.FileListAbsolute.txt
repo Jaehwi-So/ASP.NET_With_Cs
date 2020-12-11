@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2015\Projects\32_Linq_Function\32_Linq_Function\bin\Debug\32_Linq_Function.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\32_Linq_Function\32_Linq_Function\bin\Debug\32_Linq_Function.exe
+c:\users\admin\documents\visual studio 2015\Projects\32_Linq_Function\32_Linq_Function\bin\Debug\32_Linq_Function.pdb
+c:\users\admin\documents\visual studio 2015\Projects\32_Linq_Function\32_Linq_Function\obj\Debug\32_Linq_Function.exe
+c:\users\admin\documents\visual studio 2015\Projects\32_Linq_Function\32_Linq_Function\obj\Debug\32_Linq_Function.pdb
